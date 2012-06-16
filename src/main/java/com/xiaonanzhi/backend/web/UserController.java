@@ -33,6 +33,7 @@ public class UserController {
 	
 	public ModelAndView showMyMarker(){
 		ModelAndView mv = new ModelAndView();
+		
 		return mv;
 	}
 
