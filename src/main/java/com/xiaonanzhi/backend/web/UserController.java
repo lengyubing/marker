@@ -29,6 +29,12 @@ public class UserController {
 		mv.addObject(user);
 		return mv;
 	}
+	
+	
+	public ModelAndView showMyMarker(){
+		ModelAndView mv = new ModelAndView();
+		return mv;
+	}
 
 	
 	
